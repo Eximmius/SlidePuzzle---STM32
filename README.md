@@ -18,5 +18,6 @@
 * 1x Timer
 
 Esquema de Interação Tarefas RTOS
+
 ![alt text](https://github.com/Eximmius/SlidePuzzle-STM32/blob/master/TaskDiagram.png?raw=true "FreeRTOS Tasks")
 
