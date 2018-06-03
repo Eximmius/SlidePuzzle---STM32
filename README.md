@@ -7,12 +7,15 @@
 * Joystick
 * Buzzer + Transistor
 
+#### MCU STM32
+
+* Timer PWM - Buzzer
+* ADC+DMA - Joystick
+
 #### FreeRTOS
 * 2x Queues
 * 3x Semaphores
 * 1x Timer
 
-#### STM32
+![alt text](https://github.com/Eximmius/SlidePuzzle-STM32/blob/master/TaskDiagram.png?raw=true "FreeRTOS Tasks")
 
-* Timer PWM - Buzzer
-* ADC+DMA - Joystick
