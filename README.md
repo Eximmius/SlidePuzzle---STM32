@@ -15,4 +15,4 @@
 #### STM32
 
 * Timer PWM - Buzzer
-* ADC - Joystick
+* ADC+DMA - Joystick
